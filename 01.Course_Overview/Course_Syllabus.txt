@@ -1,0 +1,14 @@
+Complete Python Bootcamp: Go from Zero to Hero in Python3
+
+1] Course Overview:
+	-Course Introduction
+	-Course Curriculum Overview
+	-Python2 Vs Python3
+	-FAQS
+
+2] Python Setup:
+	1.Command Line Basics
+	2.Installing Python (Step by Step)
+	3.Running Python Code (Downloading Sublime Text)
+	4.Getting the Notebooks and the Course Material
+	5.Git And Github Overview(Optional)

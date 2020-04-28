@@ -1,0 +1,66 @@
+1. Current Directory
+-> cd [For windows]
+-> pwd [for Linux/mac]
+C:\Users\kevin>cd
+C:\Users\kevin
+
+2. Check all files in Directory
+-> dir [For windows]
+-> ls [For Linux/mac]
+C:\Users\kevin>dir
+ Volume in drive C is Windows
+ Volume Serial Number is B256-7B87
+
+ Directory of C:\Users\kevin
+
+12-04-2020  17:18    <DIR>          .
+12-04-2020  17:18    <DIR>          ..
+28-04-2020  17:01    <DIR>          .atom
+29-07-2019  10:19    <DIR>          .conda
+12-04-2019  14:39                43 .condarc
+08-03-2020  19:08                53 .gitconfig
+30-06-2019  21:59    <DIR>          .idlerc
+05-03-2020  20:25    <DIR>          .ipynb_checkpoints
+12-04-2019  14:49    <DIR>          .ipython
+27-02-2020  20:55    <DIR>          .jupyter
+12-04-2019  14:49    <DIR>          .matplotlib
+29-10-2018  19:20               168 .packettracer
+23-03-2020  21:11               648 .python_history
+10-03-2020  16:30             1,176 .viminfo
+15-10-2018  14:23    <DIR>          .vscode
+15-03-2020  10:57    <DIR>          3D Objects
+22-07-2019  22:52    <DIR>          Anaconda3
+15-03-2020  10:57    <DIR>          Contacts
+03-04-2020  16:54    <DIR>          Desktop
+21-03-2020  23:36    <DIR>          Documents
+25-04-2020  14:44    <DIR>          Downloads
+25-03-2020  11:16    <DIR>          Dropbox
+09-04-2018  11:55    <DIR>          Envs
+15-03-2020  10:57    <DIR>          Favorites
+29-10-2019  16:43    <DIR>          javame-sdk
+15-03-2020  10:57    <DIR>          Links
+11-08-2019  12:23    <DIR>          Microsoft
+15-03-2020  10:57    <DIR>          Music
+16-04-2017  10:13            13,804 npm-debug.log
+28-04-2020  16:46    <DIR>          OneDrive
+20-03-2020  17:02    <DIR>          Pictures
+24-03-2019  11:14    <DIR>          PycharmProjects
+15-03-2020  10:57    <DIR>          Saved Games
+15-03-2020  10:57    <DIR>          Searches
+03-08-2019  22:13         8,388,608 SQLPractice.mdf
+03-08-2019  22:13         8,388,608 SQLPractice_log.ldf
+16-08-2016  10:34    <DIR>          Tracing
+05-03-2020  21:08            12,444 Untitled.ipynb
+15-03-2020  10:57    <DIR>          Videos
+               9 File(s)     16,805,552 bytes
+              30 Dir(s)  307,141,865,472 bytes free
+
+3.Change Directory
+-> cd.. [to go back a directory][Same for Windows/linux/mac]
+-> cd Directory_path to go to particular directory
+C:\Users\kevin>cd Desktop
+C:\Users\kevin\Desktop>cd..
+
+4.Clear Screen
+-> cls [in windows]
+-> clear [for Linux/mac]
