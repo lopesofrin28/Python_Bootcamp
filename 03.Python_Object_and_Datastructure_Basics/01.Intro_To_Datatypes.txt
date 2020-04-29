@@ -1,0 +1,11 @@
+Basic Introduction to Python Datatypes
+
+Integers  - int
+FLoating point  - float
+Strings - str
+
+Lists - list  [10,"hello",200.3]
+Dictionaries  - dict  {"mykey":"value","name":"Frankie"}
+Tuples - tup  (10,"hello",200.3)
+sets  - set {"a","b"}
+Booleans  - bool  ||  True Or False

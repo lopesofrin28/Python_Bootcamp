@@ -11,4 +11,15 @@ Complete Python Bootcamp: Go from Zero to Hero in Python3
 	2.Installing Python (Step by Step)
 	3.Running Python Code (Downloading Sublime Text)
 	4.Getting the Notebooks and the Course Material
-	5.Git And Github Overview(Optional)
+	5.Git And GitHub Overview(Optional)
+
+3] Python Object and Data structure Basics:
+	1.Introduction to Python Datatypes
+	2.Python Numbers
+	3.Numbers:Simple Arithmetic
+	4.Numbers- FAQS
+	5.Numbers Quiz
+	6.Variable Assignments
+	7.Introduction to Strings
+	8.Quick Print Check
+	9.Indexing and Slicing with Strings
