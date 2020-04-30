@@ -23,3 +23,12 @@ Complete Python Bootcamp: Go from Zero to Hero in Python3
 	7.Introduction to Strings
 	8.Quick Print Check
 	9.Indexing and Slicing with Strings
+	10.String Indexing
+	11.String Slicing
+	12.String Properties and Methods
+	13.Strings-FAQS
+	14.Strings-Quiz
+	15.Print Formatting With Strings
+	16.Print Formatting FAQS
+	17.Print Formatting Test
+	18.Lists
