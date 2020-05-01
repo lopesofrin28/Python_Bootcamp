@@ -31,4 +31,22 @@ Complete Python Bootcamp: Go from Zero to Hero in Python3
 	15.Print Formatting With Strings
 	16.Print Formatting FAQS
 	17.Print Formatting Test
-	18.Lists
+	18.Lists in Python
+	19.Lists
+	20.Lists-FAQS
+	21.Lists Quiz
+	22.Dictionaries in Python
+	23.Dictionaries
+	24.Dictionaries-FAQS
+	25.Dictionaries Quiz
+	26.Tuples with Python
+	27.Tuples Quiz
+	28.Sets in Python
+	29.Sets
+	30.Booleans in Python
+	31.Sets and Booleans Quiz
+	32.I/O with Basic Files in Python
+	33.File I/O
+	34.Resources for More Basic Practice
+	35.Python Objects and Data Structures Assessment Test Overview
+	36.Python Objects and Data Structures Assessment Test Solutions
