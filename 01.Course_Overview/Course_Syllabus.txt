@@ -1,19 +1,19 @@
 Complete Python Bootcamp: Go from Zero to Hero in Python3
 
-1] Course Overview:
+1]	Course Overview:
 	-Course Introduction
 	-Course Curriculum Overview
 	-Python2 Vs Python3
 	-FAQS
 
-2] Python Setup:
+2]	Python Setup:
 	1.Command Line Basics
 	2.Installing Python (Step by Step)
 	3.Running Python Code (Downloading Sublime Text)
 	4.Getting the Notebooks and the Course Material
 	5.Git And GitHub Overview(Optional)
 
-3] Python Object and Data structure Basics:
+3]	Python Object and Data structure Basics:
 	1.Introduction to Python Datatypes
 	2.Python Numbers
 	3.Numbers:Simple Arithmetic
@@ -50,3 +50,14 @@ Complete Python Bootcamp: Go from Zero to Hero in Python3
 	34.Resources for More Basic Practice
 	35.Python Objects and Data Structures Assessment Test Overview
 	36.Python Objects and Data Structures Assessment Test Solutions
+
+4]	Python Comparison Operators:
+	1.Comparison Operators in Python
+	2.Chaining Comparison Operators in Python with Logical Operators
+	3.Comparison Operators Quiz
+
+5]	Python Statements:
+	1.If Elif and Else Statements in Python
+	2.For Loops in Python
+	3.While Loops in Python
+	4.
