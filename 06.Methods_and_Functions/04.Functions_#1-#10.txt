@@ -1,0 +1,74 @@
+Functions #1: print Hello World
+def myfunc():
+    print('Hello World')
+
+
+Functions #2: print Hello Name
+  def myfunc(name):
+      #return 'Hello {}'.format(name)
+      print('Hello {}'.format(name))
+
+
+Functions #3 - simple Boolean
+def myfunc(x):
+    if x == True:
+        # print('Hello')
+        return 'Hello'
+    elif x == False:
+        # print('Goodbye')
+        return 'Goodbye'
+
+
+Functions #4 - using Booleans
+def myfunc(x,y,z):
+    if z:
+        # print(x)
+        return x
+    else:
+        # print(y)
+        return y
+
+
+Functions #5: simple math
+def myfunc(a,b):
+    print(a+b)
+    # return a+b
+
+
+Functions #6: is even
+def is_even(n):
+    if n%2 == 0:
+        return True
+        # print(True)  **tested to make sure it DOESN'T work
+    else:
+        return False
+
+
+Functions #7: is greater
+def is_greater(x,y):
+    return x>y
+
+
+Functions #8: *args
+def myfunc(*args):
+    return sum(args)
+
+
+Functions #9: pick evens
+def myfunc(*args):
+    out = []
+    for num in args:
+        if num%2==0:
+            out.append(num)
+    return out
+
+
+Functions #10: skyline
+def myfunc(x):
+    out = []
+    for i in range(len(x)):
+        if i%2==0:
+            out.append(x[i].lower())
+        else:
+            out.append(x[i].upper())
+    return ''.join(out)

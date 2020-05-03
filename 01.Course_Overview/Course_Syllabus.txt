@@ -66,4 +66,19 @@ Complete Python Bootcamp: Go from Zero to Hero in Python3
 	7.Python Statements Test Solutions
 
 6]	Methods and Functions:
-	1.
+	1.Methods and the Python Documentation
+	2.Functions in Python
+	3.Overview of Quick Function Exercises #1-10
+	4.Functions #1: print Hello World
+	5.Functions #2: print Hello Name
+	6.Functions #3 - simple Boolean
+	7.Functions #4 - using Booleans
+	8.Functions #5: simple math
+	9.Functions #6: is even
+	10.Functions #7: is greater
+	11.*args and **kwargs in Python
+	12.Functions #8: *args
+	13.Functions #9: pick evens
+	14.Functions #10: skyline
+	15.Function Practice Exercises-Overview
+	16.
