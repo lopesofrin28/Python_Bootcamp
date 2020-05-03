@@ -60,4 +60,10 @@ Complete Python Bootcamp: Go from Zero to Hero in Python3
 	1.If Elif and Else Statements in Python
 	2.For Loops in Python
 	3.While Loops in Python
-	4.
+	4.Useful Operators in Python
+	5.List Comprehensions in Python
+	6.Python Statements Test Overview
+	7.Python Statements Test Solutions
+
+6]	Methods and Functions:
+	1.
