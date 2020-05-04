@@ -81,4 +81,15 @@ Complete Python Bootcamp: Go from Zero to Hero in Python3
 	13.Functions #9: pick evens
 	14.Functions #10: skyline
 	15.Function Practice Exercises-Overview
-	16.
+	16.Function Practice Exercises - Solutions
+	17.Function Practice - Solutions Level One
+	18.Function Practice - Solutions Level Two
+	19.Function Exercise Solutions - Challenge Problem
+	20.Lambda Expressions, Map, and Filter Functions
+	21.Nested Statements and Scope
+	22.Functions and Methods - Homework Assignment
+	23.Hints and Tips for Functions and Methods Assignment
+	24.Functions and Methods Homework - Solutions
+
+7]	Milestone Project-1:
+	1.
