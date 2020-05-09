@@ -92,4 +92,10 @@ Complete Python Bootcamp: Go from Zero to Hero in Python3
 	24.Functions and Methods Homework - Solutions
 
 7]	Milestone Project-1:
-	1.
+	1.First Python Milestone Project Overview
+	2.Milestone Project Help
+	3.Solution Overview for MileStone Project 1 - Part One
+	4.Solution Overview for MileStone Project 1 - Part Two
+	5.Advanced Project Solution Overview
+
+8]	
